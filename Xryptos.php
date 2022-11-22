@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__.'/src/PHPTelebot.php';
 require_once __DIR__.'/src/Function.php';
-$bot = new PHPTelebot('ur bot token', 'ur bot username');
+$bot = new PHPTelebot('1560763356:AAHezLHGVwVONTp_wlM8ts8sfRC3gzk20_s', 'Subona_bot');
 
 // Command without Function
 $bot->cmd('hontoni','yokatta');
